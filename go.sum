@@ -3,6 +3,8 @@ github.com/denizgursoy/brainfuck v0.0.0-20220409211309-8934bc0e8314 h1:OIiiWX7aV
 github.com/denizgursoy/brainfuck v0.0.0-20220409211309-8934bc0e8314/go.mod h1:gbPzRFNDZdqfoFDrDpl9g7vEQe5/Fy14DtEmviY8ZJ4=
 github.com/denizgursoy/brainfuck v0.0.0-20220410101802-bac08add8fce h1:baaWbIxsLmzBCG+g/a31X66CnzF9VJXS6RvYe2NiuEQ=
 github.com/denizgursoy/brainfuck v0.0.0-20220410101802-bac08add8fce/go.mod h1:gbPzRFNDZdqfoFDrDpl9g7vEQe5/Fy14DtEmviY8ZJ4=
+github.com/denizgursoy/brainfuck v0.0.0-20220410212717-29b8f97c8db5 h1:dDEfoKpahKifuH7tKQAamviM+YB7wbCDvsptPa64jZg=
+github.com/denizgursoy/brainfuck v0.0.0-20220410212717-29b8f97c8db5/go.mod h1:gbPzRFNDZdqfoFDrDpl9g7vEQe5/Fy14DtEmviY8ZJ4=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
