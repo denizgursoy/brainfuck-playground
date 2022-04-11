@@ -31,18 +31,18 @@ func main() {
 	defer inputFile.Close()
 	defer outputFile.Close()
 
-	ioOptions := brainfuck.IoOptions{
+	options := brainfuck.IoOptions{
 		CommandReader: commandFile,
 		InputReader:   inputFile,
 		OutputWriter:  outputFile,
 	}
 
-	brainFuck, err := brainfuck.NewBrainFuck(&ioOptions)
+	fuck, err := brainfuck.NewBrainFuck(&options)
 	if err != nil {
 		log.Fatalln(err)
 	}
 
-	err = brainFuck.Start()
+	err = fuck.Start()
 	if err != nil {
 		log.Fatalln(err)
 	}
